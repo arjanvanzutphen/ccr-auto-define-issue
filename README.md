@@ -1,0 +1,1 @@
+# ccr-auto-define-issue
